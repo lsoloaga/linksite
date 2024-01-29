@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Lindsay</title>
+<link  rel="stylesheet" href="style.css"/>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+<h2>Welcome</h2>
+<p>This is the main page with a little bit about me. To navigate to other pages, click the links!</p>
+<p></p>
+
+<section>
+  <nav>
+    <ul>
+        <li><a href="index.htlm">About me</a></li>
+        <li><a href="mods.html">Schedule</a></li>
+        <li><a href="divs.html">Gallery</a></li>
+    </ul>
+  </nav>
+  
+  <h3> Here is my Weekly Schedule!</h3>
+<a>
+  <ol>
+    <li> Monday: Masterpeices(9:15-12:00)</li>
+    <li> Tuesday: Operating Systems(9:15-10:30), Web Development (10:45-12:00), Global History(12:45-2:00) </li>
+    <li> Wednesday: No Class!
+    <li> Thursday: Operating Systems(9:15-10:30), Web Development (10:45-12:00), Global History(12:45-2:00), Philosophy of Law(2:15-5:00)
+    </li>
+  </ol>  
+</a>
+</section>
+
+<footer>
+  <p>Footer</p>
+</footer>
+
+</body>
+</html>
+
+
+
+
+  
