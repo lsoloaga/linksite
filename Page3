@@ -1,0 +1,35 @@
+<div class="header">
+    <h2>Me and my friends!</h2>
+  </div>
+  
+  <div class="row">
+    <div class="leftcolumn">
+      <div class="card">
+        <h2>Dome Dance!</h2>
+        <div class="img1" style="height:200px;">
+        <img src="domedance.JPG">
+        
+      </div>
+      <div class="card">
+        <h2>Game Day!</h2>
+        <h5></h5>
+        <div class="img2" style="height:200px;">
+        <img src="gameday.JPG" width="150" height="300" />
+      </div>
+    </div>
+      <div class="rightcolumn">
+      <div class="card">
+        <h2>Party!</h2>
+        <div class="fakeimg" style="height:200px;">
+        <img src="fancyparty.JPG" width="150" height="500" />
+      
+      </div>
+      </div>
+
+      </div>
+      
+
+
+    </div>
+  </div>
+  
